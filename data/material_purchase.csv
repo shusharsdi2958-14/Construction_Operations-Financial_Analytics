@@ -1,0 +1,231 @@
+purchase_id,project_id,material_name,dealer_name,purchase_date,quantity,unit,unit_price,total_cost
+PUR00001,PR001,marbles,Rana Marbles,2024-03-11,986,sqft,143,140998
+PUR00002,PR001,cement,Ashiq Traders,2024-04-19,1904,bag,475,904400
+PUR00003,PR001,sand,Ravi Sand Suppliers,2024-05-05,23,load,17000,391000
+PUR00004,PR001,steel,Bangalore Steel Company,2024-05-20,4,ton,67000,268000
+PUR00005,PR001,marbles,Everest Marbles,2024-06-25,451,sqft,113,50963
+PUR00006,PR001,tiles,Everest Marbles,2024-06-26,86,box,594,51084
+PUR00007,PR001,paint,Ashiq Traders,2024-07-02,53,liter,341,18073
+PUR00008,PR001,paint,Ashiq Traders,2024-08-07,1907,liter,317,604519
+PUR00009,PR002,interlocks,Shri Durgaparameshwari Industries,2024-04-16,9871,sqft,54,533034
+PUR00010,PR002,laterite stone,Janani Transports,2024-05-03,17001,piece,42,714042
+PUR00011,PR002,tiles,Everest Marbles,2024-05-14,21,box,581,12201
+PUR00012,PR002,electrical items,Sheethal Enterprises,2024-07-18,543,set,3745,2033535
+PUR00013,PR002,marbles,Abhay Marbles,2024-07-21,5482,sqft,189,1036098
+PUR00014,PR002,plumbing items,Sheethal Enterprises,2024-08-13,38,set,3654,138852
+PUR00015,PR002,tiles,Abhay Marbles,2024-08-19,164,box,711,116604
+PUR00016,PR002,paint,Ashiq Traders,2024-10-04,401,liter,293,117493
+PUR00017,PR003,bricks,Shri Durgaparameshwari Industries,2024-04-30,20644,piece,11,227084
+PUR00018,PR003,interlocks,Shri Durgaparameshwari Industries,2024-06-07,10584,sqft,44,465696
+PUR00019,PR003,paint,Ashiq Traders,2024-06-21,1242,liter,285,353970
+PUR00020,PR003,steel,Bangalore Steel Company,2024-07-03,3,ton,67000,201000
+PUR00021,PR003,bricks,Shri Durgaparameshwari Industries,2024-07-25,49370,piece,12,592440
+PUR00022,PR003,electrical items,Sheethal Enterprises,2024-08-19,20,set,4677,93540
+PUR00023,PR003,cement,Muneer Traders,2024-09-06,455,bag,475,216125
+PUR00024,PR003,electrical items,Sheethal Enterprises,2024-09-28,150,set,1898,284700
+PUR00025,PR003,electrical items,Sheethal Enterprises,2024-10-14,123,set,3087,379701
+PUR00026,PR004,plumbing items,Sheethal Enterprises,2024-05-12,2147,set,2202,4727694
+PUR00027,PR004,sand,Ravi Sand Suppliers,2024-08-23,40,load,17000,680000
+PUR00028,PR004,sand,Coastal Sand Co.,2024-08-26,131,load,17000,2227000
+PUR00029,PR004,paint,Ashiq Traders,2025-01-13,11036,liter,250,2759000
+PUR00030,PR004,marbles,Everest Marbles,2025-01-29,892,sqft,164,146288
+PUR00031,PR004,laterite stone,Janani Transports,2025-04-14,59900,piece,48,2875200
+PUR00032,PR004,marbles,Rana Marbles,2025-11-01,3193,sqft,180,574740
+PUR00033,PR004,crushed stone,St. Lawrence,2025-11-18,240,ton,863,207120
+PUR00034,PR005,tiles,Abhay Marbles,2024-06-19,1090,box,465,506850
+PUR00035,PR005,electrical items,Sheethal Enterprises,2024-06-22,195,set,2946,574470
+PUR00036,PR005,tiles,Abhay Marbles,2024-06-25,526,box,535,281410
+PUR00037,PR005,cement,Muneer Traders,2024-06-26,130,bag,475,61750
+PUR00038,PR005,bricks,Shri Durgaparameshwari Industries,2024-07-07,1947,piece,9,17523
+PUR00039,PR005,cement,Muneer Traders,2024-08-05,414,bag,475,196650
+PUR00040,PR005,interlocks,Shri Durgaparameshwari Industries,2024-08-22,1902,sqft,52,98904
+PUR00041,PR005,plumbing items,Sheethal Enterprises,2024-10-07,8,set,2794,22352
+PUR00042,PR006,cement,Ashiq Traders,2024-06-17,230,bag,475,109250
+PUR00043,PR006,cement,Ashiq Traders,2024-06-22,12,bag,475,5700
+PUR00044,PR006,tiles,Abhay Marbles,2024-07-13,498,box,770,383460
+PUR00045,PR006,marbles,Rana Marbles,2024-07-18,276,sqft,173,47748
+PUR00046,PR006,cement,Ashiq Traders,2024-07-25,365,bag,475,173375
+PUR00047,PR006,paint,Ashiq Traders,2024-08-14,161,liter,371,59731
+PUR00048,PR006,cement,Ashiq Traders,2024-08-17,247,bag,475,117325
+PUR00049,PR006,cement,Ashiq Traders,2024-09-06,266,bag,475,126350
+PUR00050,PR007,laterite stone,Janani Transports,2024-09-17,790,piece,44,34760
+PUR00051,PR007,laterite stone,Janani Transports,2024-09-25,13818,piece,43,594174
+PUR00052,PR007,plumbing items,Sheethal Enterprises,2024-10-06,90,set,2815,253350
+PUR00053,PR007,cement,Ashiq Traders,2024-10-08,1005,bag,475,477375
+PUR00054,PR007,marbles,Abhay Marbles,2024-10-09,2094,sqft,183,383202
+PUR00055,PR007,marbles,Everest Marbles,2024-10-23,1534,sqft,101,154934
+PUR00056,PR007,cement,Ashiq Traders,2024-12-07,913,bag,475,433675
+PUR00057,PR007,paint,Ashiq Traders,2024-12-13,54,liter,292,15768
+PUR00058,PR007,electrical items,Sheethal Enterprises,2025-01-05,12,set,2989,35868
+PUR00059,PR008,plumbing items,Sheethal Enterprises,2024-12-29,12,set,4013,48156
+PUR00060,PR008,sand,Coastal Sand Co.,2025-02-17,25,load,17000,425000
+PUR00061,PR008,cement,Ashiq Traders,2025-03-07,1099,bag,475,522025
+PUR00062,PR008,laterite stone,Janani Transports,2025-03-21,8397,piece,40,335880
+PUR00063,PR008,interlocks,Shri Durgaparameshwari Industries,2025-04-30,33433,sqft,56,1872248
+PUR00064,PR008,electrical items,Sheethal Enterprises,2025-08-06,380,set,1232,468160
+PUR00065,PR008,bricks,Shri Durgaparameshwari Industries,2025-09-10,38881,piece,9,349929
+PUR00066,PR008,paint,Ashiq Traders,2025-09-22,3109,liter,267,830103
+PUR00067,PR008,paint,Ashiq Traders,2025-11-03,457,liter,353,161321
+PUR00068,PR009,tiles,Rana Marbles,2024-12-31,1201,box,404,485204
+PUR00069,PR009,cement,Ashiq Traders,2025-01-15,49,bag,475,23275
+PUR00070,PR009,cement,Ashiq Traders,2025-02-12,2731,bag,475,1297225
+PUR00071,PR009,marbles,Everest Marbles,2025-02-18,2636,sqft,168,442848
+PUR00072,PR009,tiles,Rana Marbles,2025-02-27,101,box,659,66559
+PUR00073,PR009,bricks,Shri Durgaparameshwari Industries,2025-03-03,184,piece,9,1656
+PUR00074,PR009,bricks,Shri Durgaparameshwari Industries,2025-03-24,63228,piece,8,505824
+PUR00075,PR009,paint,Ashiq Traders,2025-04-09,1068,liter,344,367392
+PUR00076,PR010,marbles,Abhay Marbles,2025-02-01,3698,sqft,126,465948
+PUR00077,PR010,interlocks,Shri Durgaparameshwari Industries,2025-02-03,8775,sqft,60,526500
+PUR00078,PR010,marbles,Rana Marbles,2025-02-13,167,sqft,164,27388
+PUR00079,PR010,cement,Muneer Traders,2025-02-27,334,bag,475,158650
+PUR00080,PR010,electrical items,Sheethal Enterprises,2025-03-15,9,set,4708,42372
+PUR00081,PR010,bricks,Shri Durgaparameshwari Industries,2025-03-18,88708,piece,8,709664
+PUR00082,PR010,marbles,Everest Marbles,2025-04-02,2581,sqft,135,348435
+PUR00083,PR010,interlocks,Shri Durgaparameshwari Industries,2025-05-26,3585,sqft,40,143400
+PUR00084,PR010,sand,Ravi Sand Suppliers,2025-06-08,1,load,17000,17000
+PUR00085,PR011,sand,Ravi Sand Suppliers,2025-02-22,11,load,17000,187000
+PUR00086,PR011,crushed stone,St. Lawrence,2025-03-16,255,ton,791,201705
+PUR00087,PR011,paint,Ashiq Traders,2025-03-21,2147,liter,313,672011
+PUR00088,PR011,tiles,Abhay Marbles,2025-05-01,897,box,581,521157
+PUR00089,PR011,sand,Coastal Sand Co.,2025-05-16,66,load,17000,1122000
+PUR00090,PR011,interlocks,Shri Durgaparameshwari Industries,2025-05-17,5564,sqft,59,328276
+PUR00091,PR011,paint,Ashiq Traders,2025-06-02,211,liter,310,65410
+PUR00092,PR011,sand,Ravi Sand Suppliers,2025-07-03,38,load,17000,646000
+PUR00093,PR011,cement,Muneer Traders,2025-07-11,1547,bag,475,734825
+PUR00094,PR012,electrical items,Sheethal Enterprises,2025-04-02,117,set,3703,433251
+PUR00095,PR012,laterite stone,Janani Transports,2025-07-01,16801,piece,46,772846
+PUR00096,PR012,paint,Ashiq Traders,2025-07-12,1112,liter,321,356952
+PUR00097,PR012,paint,Ashiq Traders,2025-07-13,1208,liter,321,387768
+PUR00098,PR012,steel,Bangalore Steel Company,2025-07-15,4,ton,67000,268000
+PUR00099,PR012,sand,Coastal Sand Co.,2025-08-24,1,load,17000,17000
+PUR00100,PR012,paint,Ashiq Traders,2025-09-16,233,liter,257,59881
+PUR00101,PR012,laterite stone,Janani Transports,2025-11-11,381,piece,44,16764
+PUR00102,PR012,cement,Muneer Traders,2025-11-16,1117,bag,475,530575
+PUR00103,PR013,laterite stone,Janani Transports,2025-04-13,1972,piece,50,98600
+PUR00104,PR013,electrical items,Sheethal Enterprises,2025-05-16,52,set,3552,184704
+PUR00105,PR013,crushed stone,St. Lawrence,2025-06-28,716,ton,869,622204
+PUR00106,PR013,interlocks,Shri Durgaparameshwari Industries,2025-07-15,1529,sqft,49,74921
+PUR00107,PR013,sand,Coastal Sand Co.,2025-08-07,8,load,17000,136000
+PUR00108,PR013,plumbing items,Sheethal Enterprises,2025-08-11,158,set,2336,369088
+PUR00109,PR013,steel,Bangalore Steel Company,2025-09-14,1,ton,67000,67000
+PUR00110,PR013,cement,Ashiq Traders,2025-09-18,44,bag,475,20900
+PUR00111,PR013,crushed stone,St. Lawrence,2025-09-27,119,ton,749,89131
+PUR00112,PR014,paint,Ashiq Traders,2025-04-23,49,liter,381,18669
+PUR00113,PR014,plumbing items,Sheethal Enterprises,2025-05-15,205,set,1382,283310
+PUR00114,PR014,marbles,Rana Marbles,2025-05-26,948,sqft,186,176328
+PUR00115,PR014,bricks,Shri Durgaparameshwari Industries,2025-06-13,11911,piece,9,107199
+PUR00116,PR014,tiles,Everest Marbles,2025-06-23,461,box,475,218975
+PUR00117,PR014,cement,Ashiq Traders,2025-07-24,366,bag,475,173850
+PUR00118,PR014,bricks,Shri Durgaparameshwari Industries,2025-07-30,2451,piece,9,22059
+PUR00119,PR014,crushed stone,St. Lawrence,2025-08-01,278,ton,856,237968
+PUR00120,PR014,tiles,Rana Marbles,2025-08-10,131,box,633,82923
+PUR00121,PR015,paint,Ashiq Traders,2025-05-03,1853,liter,313,579989
+PUR00122,PR015,laterite stone,Janani Transports,2025-06-05,16963,piece,47,797261
+PUR00123,PR015,laterite stone,Janani Transports,2025-06-16,2867,piece,47,134749
+PUR00124,PR015,sand,Coastal Sand Co.,2025-08-07,2,load,17000,34000
+PUR00125,PR015,paint,Ashiq Traders,2025-08-17,240,liter,379,90960
+PUR00126,PR015,plumbing items,Sheethal Enterprises,2025-08-31,45,set,4402,198090
+PUR00127,PR015,plumbing items,Sheethal Enterprises,2025-09-10,128,set,4674,598272
+PUR00128,PR015,plumbing items,Sheethal Enterprises,2025-10-16,172,set,4046,695912
+PUR00129,PR016,plumbing items,Sheethal Enterprises,2025-06-25,1,set,3893,3893
+PUR00130,PR016,bricks,Shri Durgaparameshwari Industries,2025-07-24,21849,piece,8,174792
+PUR00131,PR016,electrical items,Sheethal Enterprises,2025-07-31,49,set,2669,130781
+PUR00132,PR016,crushed stone,St. Lawrence,2025-08-01,73,ton,838,61174
+PUR00133,PR016,steel,Bangalore Steel Company,2025-09-10,1,ton,67000,67000
+PUR00134,PR016,crushed stone,St. Lawrence,2025-10-25,141,ton,715,100815
+PUR00135,PR016,paint,Ashiq Traders,2025-11-02,1961,liter,357,700077
+PUR00136,PR016,steel,New Star Dealers,2025-11-27,1,ton,67000,67000
+PUR00137,PR017,crushed stone,St. Lawrence,2025-07-04,76,ton,803,61028
+PUR00138,PR017,interlocks,Shri Durgaparameshwari Industries,2025-08-22,1887,sqft,54,101898
+PUR00139,PR017,bricks,Shri Durgaparameshwari Industries,2025-09-04,3161,piece,12,37932
+PUR00140,PR017,laterite stone,Janani Transports,2025-09-21,6510,piece,46,299460
+PUR00141,PR017,plumbing items,Sheethal Enterprises,2025-10-04,205,set,1343,275315
+PUR00142,PR017,plumbing items,Sheethal Enterprises,2025-10-16,16,set,1555,24880
+PUR00143,PR017,tiles,Everest Marbles,2025-10-29,117,box,493,57681
+PUR00144,PR017,paint,Ashiq Traders,2025-12-15,95,liter,316,30020
+PUR00145,PR017,electrical items,Sheethal Enterprises,2025-12-17,12,set,2340,28080
+PUR00146,PR018,electrical items,Sheethal Enterprises,2025-07-21,13,set,1816,23608
+PUR00147,PR018,laterite stone,Janani Transports,2025-07-24,12381,piece,49,606669
+PUR00148,PR018,electrical items,Sheethal Enterprises,2025-07-31,228,set,1977,450756
+PUR00149,PR018,electrical items,Sheethal Enterprises,2025-09-09,12,set,2939,35268
+PUR00150,PR018,bricks,Shri Durgaparameshwari Industries,2025-09-15,17558,piece,12,210696
+PUR00151,PR018,cement,Muneer Traders,2025-10-11,3244,bag,475,1540900
+PUR00152,PR018,cement,Muneer Traders,2025-12-27,372,bag,475,176700
+PUR00153,PR018,tiles,Rana Marbles,2026-01-23,127,box,792,100584
+PUR00154,PR018,interlocks,Shri Durgaparameshwari Industries,2026-01-29,9637,sqft,45,433665
+PUR00155,PR019,interlocks,Shri Durgaparameshwari Industries,2025-08-22,8191,sqft,59,483269
+PUR00156,PR019,sand,Ravi Sand Suppliers,2025-08-29,2,load,17000,34000
+PUR00157,PR019,cement,Muneer Traders,2025-10-04,267,bag,475,126825
+PUR00158,PR019,bricks,Shri Durgaparameshwari Industries,2025-10-19,13607,piece,12,163284
+PUR00159,PR019,paint,Ashiq Traders,2026-01-01,90,liter,344,30960
+PUR00160,PR019,interlocks,Shri Durgaparameshwari Industries,2026-01-10,2649,sqft,56,148344
+PUR00161,PR019,laterite stone,Janani Transports,2026-01-26,1305,piece,40,52200
+PUR00162,PR019,paint,Ashiq Traders,2026-01-28,304,liter,375,114000
+PUR00163,PR020,marbles,Everest Marbles,2025-09-14,784,sqft,157,123088
+PUR00164,PR020,electrical items,Sheethal Enterprises,2025-10-24,23,set,4073,93679
+PUR00165,PR020,paint,Ashiq Traders,2025-10-30,29,liter,395,11455
+PUR00166,PR020,crushed stone,St. Lawrence,2025-11-02,281,ton,786,220866
+PUR00167,PR020,paint,Ashiq Traders,2025-11-13,126,liter,376,47376
+PUR00168,PR020,interlocks,Shri Durgaparameshwari Industries,2025-12-12,562,sqft,45,25290
+PUR00169,PR020,bricks,Shri Durgaparameshwari Industries,2025-12-20,567,piece,9,5103
+PUR00170,PR020,electrical items,Sheethal Enterprises,2025-12-24,26,set,4267,110942
+PUR00171,PR020,tiles,Rana Marbles,2026-01-21,242,box,574,138908
+PUR00172,PR021,tiles,Rana Marbles,2025-09-19,11,box,588,6468
+PUR00173,PR021,tiles,Abhay Marbles,2025-10-08,405,box,683,276615
+PUR00174,PR021,steel,Bangalore Steel Company,2025-11-10,1,ton,67000,67000
+PUR00175,PR021,steel,Bangalore Steel Company,2025-11-16,6,ton,67000,402000
+PUR00176,PR021,laterite stone,Janani Transports,2025-11-29,1539,piece,48,73872
+PUR00177,PR021,tiles,Abhay Marbles,2025-12-02,781,box,580,452980
+PUR00178,PR021,steel,Bangalore Steel Company,2025-12-27,3,ton,67000,201000
+PUR00179,PR021,crushed stone,St. Lawrence,2026-01-07,1384,ton,769,1064296
+PUR00180,PR021,paint,Ashiq Traders,2026-02-10,182,liter,314,57148
+PUR00181,PR022,bricks,Shri Durgaparameshwari Industries,2025-12-18,7021,piece,10,70210
+PUR00182,PR022,paint,Ashiq Traders,2025-12-19,53,liter,386,20458
+PUR00183,PR022,interlocks,Shri Durgaparameshwari Industries,2025-12-31,9069,sqft,48,435312
+PUR00184,PR022,paint,Ashiq Traders,2026-01-05,1343,liter,263,353209
+PUR00185,PR022,steel,New Star Dealers,2026-01-12,1,ton,67000,67000
+PUR00186,PR022,paint,Ashiq Traders,2026-01-13,484,liter,375,181500
+PUR00187,PR022,bricks,Shri Durgaparameshwari Industries,2026-01-22,35757,piece,8,286056
+PUR00188,PR022,marbles,Rana Marbles,2026-02-12,852,sqft,160,136320
+PUR00189,PR023,interlocks,Shri Durgaparameshwari Industries,2026-01-02,1997,sqft,53,105841
+PUR00190,PR023,bricks,Shri Durgaparameshwari Industries,2026-01-04,3238,piece,12,38856
+PUR00191,PR023,plumbing items,Sheethal Enterprises,2026-01-06,5,set,2845,14225
+PUR00192,PR023,sand,Coastal Sand Co.,2026-01-12,19,load,17000,323000
+PUR00193,PR023,cement,Muneer Traders,2026-01-16,682,bag,475,323950
+PUR00194,PR023,crushed stone,St. Lawrence,2026-02-01,181,ton,778,140818
+PUR00195,PR023,tiles,Abhay Marbles,2026-02-02,82,box,712,58384
+PUR00196,PR023,paint,Ashiq Traders,2026-02-14,219,liter,275,60225
+PUR00197,PR024,marbles,Abhay Marbles,2026-01-17,378,sqft,200,75600
+PUR00198,PR024,sand,Ravi Sand Suppliers,2026-01-22,8,load,17000,136000
+PUR00199,PR024,steel,Bangalore Steel Company,2026-01-23,2,ton,67000,134000
+PUR00200,PR024,cement,Ashiq Traders,2026-01-24,186,bag,475,88350
+PUR00201,PR024,cement,Ashiq Traders,2026-01-29,126,bag,475,59850
+PUR00202,PR024,crushed stone,St. Lawrence,2026-02-05,6,ton,865,5190
+PUR00203,PR024,marbles,Everest Marbles,2026-02-06,77,sqft,134,10318
+PUR00204,PR024,bricks,Shri Durgaparameshwari Industries,2026-02-11,16687,piece,8,133496
+PUR00205,PR024,steel,New Star Dealers,2026-02-14,1,ton,67000,67000
+PUR00206,PR025,crushed stone,St. Lawrence,2026-01-20,3,ton,895,2685
+PUR00207,PR025,crushed stone,St. Lawrence,2026-01-22,41,ton,847,34727
+PUR00208,PR025,bricks,Shri Durgaparameshwari Industries,2026-01-27,39454,piece,9,355086
+PUR00209,PR025,laterite stone,Janani Transports,2026-01-28,34,piece,48,1632
+PUR00210,PR025,bricks,Shri Durgaparameshwari Industries,2026-01-30,5716,piece,10,57160
+PUR00211,PR025,tiles,Rana Marbles,2026-02-07,371,box,699,259329
+PUR00212,PR025,crushed stone,St. Lawrence,2026-02-08,445,ton,862,383590
+PUR00213,PR025,marbles,Rana Marbles,2026-02-10,3100,sqft,111,344100
+PUR00214,PR025,plumbing items,Sheethal Enterprises,2026-02-12,34,set,2425,82450
+PUR00215,PR026,plumbing items,Sheethal Enterprises,2026-01-23,28,set,2692,75376
+PUR00216,PR026,bricks,Shri Durgaparameshwari Industries,2026-01-26,1830,piece,9,16470
+PUR00217,PR026,paint,Ashiq Traders,2026-01-31,64,liter,377,24128
+PUR00218,PR026,bricks,Shri Durgaparameshwari Industries,2026-02-02,10434,piece,8,83472
+PUR00219,PR026,interlocks,Shri Durgaparameshwari Industries,2026-02-04,1329,sqft,48,63792
+PUR00220,PR026,electrical items,Sheethal Enterprises,2026-02-06,24,set,4799,115176
+PUR00221,PR026,tiles,Abhay Marbles,2026-02-08,104,box,624,64896
+PUR00222,PR026,crushed stone,St. Lawrence,2026-02-14,62,ton,824,51088
+PUR00223,PR027,paint,Ashiq Traders,2026-02-06,47,liter,370,17390
+PUR00224,PR027,bricks,Shri Durgaparameshwari Industries,2026-02-07,7332,piece,11,80652
+PUR00225,PR027,cement,Muneer Traders,2026-02-08,114,bag,475,54150
+PUR00226,PR027,laterite stone,Janani Transports,2026-02-09,1144,piece,43,49192
+PUR00227,PR027,steel,New Star Dealers,2026-02-10,9,ton,67000,603000
+PUR00228,PR027,plumbing items,Sheethal Enterprises,2026-02-12,41,set,2131,87371
+PUR00229,PR027,sand,Coastal Sand Co.,2026-02-13,23,load,17000,391000
+PUR00230,PR027,interlocks,Shri Durgaparameshwari Industries,2026-02-14,3133,sqft,56,175448

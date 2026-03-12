@@ -1,0 +1,192 @@
+payment_id,project_id,payment_date,payment_amount,payment_mode,payment_type,payment_status
+CP001,PR001,2024-04-01,619000,Cheque,Installment,Paid
+CP002,PR001,2024-04-13,449000,UPI,Installment,Paid
+CP003,PR001,2024-04-24,760000,Bank Transfer,Installment,Paid
+CP004,PR001,2024-04-30,28000,UPI,Installment,Paid
+CP005,PR001,2024-05-07,744000,Cash,Installment,Paid
+CP006,PR001,2024-05-12,521000,UPI,Installment,Paid
+CP007,PR001,2024-08-10,279000,Cash,Final,Paid
+CP008,PR002,2024-05-05,88000,UPI,Installment,Paid
+CP009,PR002,2024-05-07,1876000,Cheque,Installment,Paid
+CP010,PR002,2024-06-09,12000,UPI,Installment,Paid
+CP011,PR002,2024-06-23,1457000,Bank Transfer,Installment,Paid
+CP012,PR002,2024-07-10,1414000,Cheque,Installment,Paid
+CP013,PR002,2024-09-13,714000,Bank Transfer,Installment,Paid
+CP014,PR002,2024-11-15,939000,UPI,Final,Paid
+CP015,PR003,2024-05-04,1058000,UPI,Installment,Paid
+CP016,PR003,2024-06-03,450000,Bank Transfer,Installment,Paid
+CP017,PR003,2024-08-10,1109000,Cheque,Installment,Paid
+CP018,PR003,2024-08-24,597000,Cash,Installment,Paid
+CP019,PR003,2024-08-28,106000,Cash,Installment,Paid
+CP020,PR003,2024-09-16,930000,Cash,Final,Paid
+CP021,PR004,2024-05-24,493000,UPI,Advance,Pending
+CP022,PR004,2024-06-07,1492000,Bank Transfer,Installment,Pending
+CP023,PR004,2024-08-21,3907000,UPI,Installment,Pending
+CP024,PR004,2024-10-23,2060000,Bank Transfer,Installment,Pending
+CP025,PR004,2024-10-28,5752000,Cash,Installment,Pending
+CP026,PR004,2025-08-29,5836000,Cheque,Installment,Pending
+CP027,PR004,2025-09-28,1563056,Bank Transfer,Installment,Pending
+CP028,PR005,2024-06-19,819000,UPI,Installment,Paid
+CP029,PR005,2024-07-09,120000,Cash,Installment,Paid
+CP030,PR005,2024-07-26,523000,Cheque,Installment,Paid
+CP031,PR005,2024-07-29,123000,UPI,Installment,Paid
+CP032,PR005,2024-08-09,183000,Bank Transfer,Installment,Paid
+CP033,PR005,2024-09-16,269000,Cash,Installment,Paid
+CP034,PR005,2024-09-26,608721,Cash,Final,Paid
+CP035,PR006,2024-06-25,35000,Cheque,Installment,Paid
+CP036,PR006,2024-06-28,106000,UPI,Installment,Paid
+CP037,PR006,2024-07-01,2000,Cash,Installment,Paid
+CP038,PR006,2024-07-05,406000,Cheque,Installment,Paid
+CP039,PR006,2024-07-09,250000,Bank Transfer,Installment,Paid
+CP040,PR006,2024-07-20,75000,Cheque,Installment,Paid
+CP041,PR006,2024-08-04,420000,Cash,Installment,Paid
+CP042,PR006,2024-08-23,249759,Bank Transfer,Final,Paid
+CP043,PR007,2024-09-02,309000,UPI,Advance,Pending
+CP044,PR007,2024-10-15,40000,UPI,Installment,Pending
+CP045,PR007,2024-11-15,508000,UPI,Installment,Pending
+CP046,PR007,2024-11-25,620000,Cheque,Installment,Pending
+CP047,PR007,2024-12-01,776000,Bank Transfer,Installment,Pending
+CP048,PR007,2025-03-19,809000,Cash,Installment,Pending
+CP049,PR007,2025-03-22,246789,Bank Transfer,Installment,Pending
+CP050,PR008,2025-01-23,1928000,Cheque,Installment,Paid
+CP051,PR008,2025-03-25,928000,Cash,Installment,Paid
+CP052,PR008,2025-03-27,525000,Cash,Installment,Paid
+CP053,PR008,2025-05-08,1094000,UPI,Installment,Paid
+CP054,PR008,2025-07-15,751000,Cheque,Installment,Paid
+CP055,PR008,2025-10-30,405000,UPI,Installment,Paid
+CP056,PR008,2025-10-31,1825890,Bank Transfer,Final,Paid
+CP057,PR009,2024-12-30,943000,Cash,Installment,Paid
+CP058,PR009,2025-02-16,841000,Cheque,Installment,Paid
+CP059,PR009,2025-02-26,434000,UPI,Installment,Paid
+CP060,PR009,2025-03-05,719000,Cheque,Installment,Paid
+CP061,PR009,2025-04-14,855000,UPI,Installment,Paid
+CP062,PR009,2025-04-20,79000,Cash,Installment,Paid
+CP063,PR009,2025-04-28,415040,Cheque,Final,Paid
+CP064,PR010,2025-01-06,651000,Cheque,Installment,Paid
+CP065,PR010,2025-02-23,991000,Cheque,Installment,Paid
+CP066,PR010,2025-02-24,716000,Cash,Installment,Paid
+CP067,PR010,2025-04-01,646000,Cash,Installment,Paid
+CP068,PR010,2025-04-03,208000,Cheque,Installment,Paid
+CP069,PR010,2025-04-12,297000,UPI,Installment,Paid
+CP070,PR010,2025-06-24,166691,Cash,Final,Paid
+CP071,PR011,2025-02-12,589000,Bank Transfer,Installment,Paid
+CP072,PR011,2025-03-12,1394000,Cheque,Installment,Paid
+CP073,PR011,2025-04-04,1859000,Cash,Installment,Paid
+CP074,PR011,2025-05-25,30000,UPI,Installment,Paid
+CP075,PR011,2025-06-20,606000,Cash,Installment,Paid
+CP076,PR011,2025-06-28,94000,Cheque,Installment,Paid
+CP077,PR011,2025-07-30,1702152,UPI,Final,Paid
+CP078,PR012,2025-03-31,586000,UPI,Installment,Pending
+CP079,PR012,2025-04-06,699000,Cheque,Installment,Pending
+CP080,PR012,2025-04-19,776000,Cheque,Installment,Pending
+CP081,PR012,2025-04-28,129000,Cheque,Installment,Pending
+CP082,PR012,2025-05-13,397000,Cash,Installment,Pending
+CP083,PR012,2025-07-01,462000,Bank Transfer,Installment,Pending
+CP084,PR012,2025-08-25,436000,UPI,Installment,Pending
+CP085,PR012,2026-01-12,613560,UPI,Installment,Pending
+CP086,PR013,2025-04-28,735000,UPI,Installment,Paid
+CP087,PR013,2025-04-29,210000,UPI,Installment,Paid
+CP088,PR013,2025-06-19,94000,Cash,Installment,Paid
+CP089,PR013,2025-07-19,549000,Cheque,Installment,Paid
+CP090,PR013,2025-07-22,217000,Cheque,Installment,Paid
+CP091,PR013,2025-09-20,742850,Cash,Final,Paid
+CP092,PR014,2025-04-21,371000,Cash,Installment,Paid
+CP093,PR014,2025-05-15,552000,UPI,Installment,Paid
+CP094,PR014,2025-05-19,283000,Bank Transfer,Installment,Paid
+CP095,PR014,2025-07-08,82000,Bank Transfer,Installment,Paid
+CP096,PR014,2025-08-01,238000,Cheque,Installment,Paid
+CP097,PR014,2025-08-02,130000,UPI,Installment,Paid
+CP098,PR014,2025-08-16,189300,Bank Transfer,Final,Paid
+CP099,PR015,2025-04-24,301000,UPI,Advance,Paid
+CP100,PR015,2025-06-30,557000,Cheque,Installment,Paid
+CP101,PR015,2025-07-11,363000,Cash,Installment,Paid
+CP102,PR015,2025-09-04,762000,Cash,Installment,Paid
+CP103,PR015,2025-09-17,663000,Bank Transfer,Installment,Paid
+CP104,PR015,2025-09-30,788000,UPI,Installment,Paid
+CP105,PR015,2025-10-12,809617,Bank Transfer,Final,Paid
+CP106,PR016,2025-06-13,152000,Bank Transfer,Advance,Partially Paid
+CP107,PR016,2025-08-04,234000,UPI,Installment,Partially Paid
+CP108,PR016,2025-08-19,113000,Cash,Installment,Partially Paid
+CP109,PR016,2025-09-09,442000,Cheque,Installment,Partially Paid
+CP110,PR016,2025-10-11,47000,Cheque,Installment,Partially Paid
+CP111,PR016,2025-12-14,184000,Cheque,Installment,Partially Paid
+CP112,PR016,2025-12-25,71000,Bank Transfer,Installment,Partially Paid
+CP113,PR017,2025-07-17,208000,Bank Transfer,Advance,Paid
+CP114,PR017,2025-08-10,156000,Cash,Installment,Paid
+CP115,PR017,2025-09-25,249000,Cash,Installment,Paid
+CP116,PR017,2025-11-10,146000,Cash,Installment,Paid
+CP117,PR017,2025-11-17,134000,Bank Transfer,Installment,Paid
+CP118,PR017,2025-12-11,102000,Bank Transfer,Installment,Paid
+CP119,PR017,2025-12-23,23000,UPI,Installment,Paid
+CP120,PR017,2026-01-03,227676,Cash,Final,Paid
+CP121,PR018,2025-07-27,324000,Cheque,Advance,Paid
+CP122,PR018,2025-08-24,1049000,UPI,Installment,Paid
+CP123,PR018,2025-10-09,859000,Cash,Installment,Paid
+CP124,PR018,2025-12-16,1260000,Cheque,Installment,Paid
+CP125,PR018,2025-12-17,186000,Cash,Installment,Paid
+CP126,PR018,2026-01-24,280000,Bank Transfer,Installment,Paid
+CP127,PR018,2026-01-27,1187623,Cash,Final,Paid
+CP128,PR019,2025-08-27,69000,Bank Transfer,Advance,Partially Paid
+CP129,PR019,2025-10-02,170000,Cash,Installment,Partially Paid
+CP130,PR019,2025-11-07,133000,Cash,Installment,Partially Paid
+CP131,PR019,2025-11-24,199000,UPI,Installment,Partially Paid
+CP132,PR019,2025-12-26,200000,Cheque,Installment,Partially Paid
+CP133,PR019,2026-01-04,143000,Cheque,Installment,Partially Paid
+CP134,PR019,2026-01-24,177000,Cheque,Installment,Partially Paid
+CP135,PR019,2026-02-06,67000,Bank Transfer,Installment,Partially Paid
+CP136,PR020,2025-08-25,86000,Bank Transfer,Advance,Partially Paid
+CP137,PR020,2025-09-25,160000,UPI,Installment,Partially Paid
+CP138,PR020,2025-10-02,91000,UPI,Installment,Partially Paid
+CP139,PR020,2025-11-04,141000,Bank Transfer,Installment,Partially Paid
+CP140,PR020,2025-11-05,137000,Bank Transfer,Installment,Partially Paid
+CP141,PR020,2025-11-06,139000,Cheque,Installment,Partially Paid
+CP142,PR020,2026-01-12,162000,Cash,Installment,Partially Paid
+CP143,PR021,2025-09-23,52000,Bank Transfer,Installment,Partially Paid
+CP144,PR021,2025-10-23,144000,Cheque,Installment,Partially Paid
+CP145,PR021,2025-11-12,203000,UPI,Installment,Partially Paid
+CP146,PR021,2025-11-23,657000,UPI,Installment,Partially Paid
+CP147,PR021,2025-12-07,447000,Cash,Installment,Partially Paid
+CP148,PR021,2025-12-09,118000,Cash,Installment,Partially Paid
+CP149,PR021,2025-12-20,464000,UPI,Installment,Partially Paid
+CP150,PR021,2026-02-02,576000,Bank Transfer,Installment,Partially Paid
+CP151,PR022,2025-12-07,524000,Cash,Installment,Partially Paid
+CP152,PR022,2025-12-10,121000,Cash,Installment,Partially Paid
+CP153,PR022,2025-12-19,552000,Cheque,Installment,Partially Paid
+CP154,PR022,2025-12-27,135000,Bank Transfer,Installment,Partially Paid
+CP155,PR022,2026-01-01,89000,Cheque,Installment,Partially Paid
+CP156,PR022,2026-01-31,370000,Cash,Installment,Partially Paid
+CP157,PR023,2025-12-30,10000,Cash,Advance,Partially Paid
+CP158,PR023,2026-01-01,15000,Cheque,Installment,Partially Paid
+CP159,PR023,2026-01-07,346000,UPI,Installment,Partially Paid
+CP160,PR023,2026-01-22,62000,Cash,Installment,Partially Paid
+CP161,PR023,2026-01-25,37000,UPI,Installment,Partially Paid
+CP162,PR023,2026-01-29,356000,Bank Transfer,Installment,Partially Paid
+CP163,PR023,2026-02-07,422000,Cheque,Installment,Partially Paid
+CP164,PR024,2026-01-18,134000,Cash,Advance,Partially Paid
+CP165,PR024,2026-01-21,142000,Cash,Installment,Partially Paid
+CP166,PR024,2026-01-28,153000,Cash,Installment,Partially Paid
+CP167,PR024,2026-02-03,175000,UPI,Installment,Partially Paid
+CP168,PR024,2026-02-06,77000,Cash,Installment,Partially Paid
+CP169,PR024,2026-02-11,61000,Cash,Installment,Partially Paid
+CP170,PR025,2026-01-22,274000,Cash,Advance,Partially Paid
+CP171,PR025,2026-01-27,259000,UPI,Installment,Partially Paid
+CP172,PR025,2026-02-05,230000,UPI,Installment,Partially Paid
+CP173,PR025,2026-02-06,251000,Bank Transfer,Installment,Partially Paid
+CP174,PR025,2026-02-10,261000,Cash,Installment,Partially Paid
+CP175,PR025,2026-02-13,262000,Cheque,Installment,Partially Paid
+CP176,PR025,2026-02-14,85000,Cheque,Installment,Partially Paid
+CP177,PR026,2026-01-23,16000,Cheque,Installment,Partially Paid
+CP178,PR026,2026-01-24,98000,Cash,Installment,Partially Paid
+CP179,PR026,2026-01-26,185000,Bank Transfer,Installment,Partially Paid
+CP180,PR026,2026-01-29,144000,Cheque,Installment,Partially Paid
+CP181,PR026,2026-02-05,32000,Cash,Installment,Partially Paid
+CP182,PR026,2026-02-10,13000,Cheque,Installment,Partially Paid
+CP183,PR026,2026-02-12,118000,Cheque,Installment,Partially Paid
+CP184,PR027,2026-02-06,286000,Cheque,Installment,Partially Paid
+CP185,PR027,2026-02-07,330000,Cheque,Installment,Partially Paid
+CP186,PR027,2026-02-08,118000,Cash,Installment,Partially Paid
+CP187,PR027,2026-02-10,220000,UPI,Installment,Partially Paid
+CP188,PR027,2026-02-11,342000,Bank Transfer,Installment,Partially Paid
+CP189,PR027,2026-02-12,77000,Bank Transfer,Installment,Partially Paid
+CP190,PR027,2026-02-13,91000,Cheque,Installment,Partially Paid
+CP191,PR027,2026-02-14,220000,Cash,Installment,Partially Paid

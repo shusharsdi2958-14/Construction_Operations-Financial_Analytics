@@ -1,0 +1,216 @@
+contract_work_id,project_id,contractor_name,work_type,start_date,end_date,contract_amount,status
+CW0001,PR001,Contractor 1,Site Preparation,2024-03-10,2024-03-30,68000,Completed
+CW0002,PR001,Contractor 3,Extra Labour,2024-03-29,2024-04-18,95000,Completed
+CW0003,PR001,Contractor 2,Foundation,2024-04-17,2024-05-07,85000,Completed
+CW0004,PR001,Contractor 3,Brick Work,2024-05-06,2024-05-26,82000,Completed
+CW0005,PR001,Contractor 3,Extra Labour,2024-05-25,2024-06-14,2000,Completed
+CW0006,PR001,Contractor 4,Electrical,2024-06-13,2024-07-03,77000,Completed
+CW0007,PR001,Contractor 5,Plumbing,2024-07-02,2024-07-22,41000,Completed
+CW0008,PR001,Contractor 6,Painting,2024-07-21,2024-08-10,22000,Completed
+CW0009,PR002,Contractor 1,Site Preparation,2024-03-24,2024-04-13,17000,Completed
+CW0010,PR002,Contractor 3,Extra Labour,2024-04-22,2024-05-12,46000,Completed
+CW0011,PR002,Contractor 2,Foundation,2024-05-21,2024-06-10,89000,Completed
+CW0012,PR002,Contractor 3,Extra Labour,2024-06-19,2024-07-09,61000,Completed
+CW0013,PR002,Contractor 3,Extra Labour,2024-07-18,2024-08-07,76000,Completed
+CW0014,PR002,Contractor 3,Brick Work,2024-08-16,2024-09-05,242000,Completed
+CW0015,PR002,Contractor 4,Electrical,2024-09-14,2024-10-04,111000,Completed
+CW0016,PR002,Contractor 5,Plumbing,2024-10-13,2024-11-02,173000,Completed
+CW0017,PR002,Contractor 6,Painting,2024-11-11,2024-12-01,131000,Completed
+CW0018,PR003,Contractor 1,Site Preparation,2024-04-14,2024-05-04,9000,Completed
+CW0019,PR003,Contractor 2,Foundation,2024-05-08,2024-05-28,26000,Completed
+CW0020,PR003,Contractor 3,Extra Labour,2024-06-01,2024-06-21,327000,Completed
+CW0021,PR003,Contractor 3,Brick Work,2024-06-25,2024-07-15,38000,Completed
+CW0022,PR003,Contractor 3,Extra Labour,2024-07-19,2024-08-08,101000,Completed
+CW0023,PR003,Contractor 4,Electrical,2024-08-12,2024-09-01,42000,Completed
+CW0024,PR003,Contractor 5,Plumbing,2024-09-05,2024-09-25,34000,Completed
+CW0025,PR003,Contractor 6,Painting,2024-09-29,2024-10-19,30000,Completed
+CW0026,PR004,Contractor 1,Site Preparation,2024-05-01,2024-05-21,16000,Completed
+CW0027,PR004,Contractor 2,Foundation,2024-07-08,2024-07-28,531000,Completed
+CW0028,PR004,Contractor 3,Extra Labour,2024-09-14,2024-10-04,336000,Completed
+CW0029,PR004,Contractor 3,Extra Labour,2024-11-21,2024-12-11,248000,Completed
+CW0030,PR004,Contractor 3,Brick Work,2025-01-28,2025-02-17,453000,In Progress
+CW0031,PR004,Contractor 3,Extra Labour,2025-04-06,2025-04-26,337000,In Progress
+CW0032,PR004,Contractor 4,Electrical,2025-06-13,2025-07-03,624000,In Progress
+CW0033,PR004,Contractor 5,Plumbing,2025-08-20,2025-09-09,502000,In Progress
+CW0034,PR004,Contractor 6,Painting,2025-10-27,2025-11-16,38000,In Progress
+CW0035,PR005,Contractor 1,Site Preparation,2024-06-05,2024-06-25,43000,Completed
+CW0036,PR005,Contractor 2,Foundation,2024-06-21,2024-07-11,70000,Completed
+CW0037,PR005,Contractor 3,Brick Work,2024-07-07,2024-07-27,8000,Completed
+CW0038,PR005,Contractor 4,Electrical,2024-07-23,2024-08-12,11000,Completed
+CW0039,PR005,Contractor 3,Extra Labour,2024-08-08,2024-08-28,20000,Completed
+CW0040,PR005,Contractor 3,Extra Labour,2024-08-24,2024-09-13,47000,Completed
+CW0041,PR005,Contractor 5,Plumbing,2024-09-09,2024-09-29,61000,Completed
+CW0042,PR005,Contractor 6,Painting,2024-09-25,2024-10-15,52000,Completed
+CW0043,PR006,Contractor 1,Site Preparation,2024-06-13,2024-07-03,13000,Completed
+CW0044,PR006,Contractor 3,Extra Labour,2024-06-24,2024-07-14,7000,Completed
+CW0045,PR006,Contractor 2,Foundation,2024-07-05,2024-07-25,3000,Completed
+CW0046,PR006,Contractor 3,Brick Work,2024-07-16,2024-08-05,33000,Completed
+CW0047,PR006,Contractor 4,Electrical,2024-07-27,2024-08-16,8000,Completed
+CW0048,PR006,Contractor 3,Extra Labour,2024-08-07,2024-08-27,33000,Completed
+CW0049,PR006,Contractor 5,Plumbing,2024-08-18,2024-09-07,17000,Completed
+CW0050,PR006,Contractor 6,Painting,2024-08-29,2024-09-18,113000,Completed
+CW0051,PR007,Contractor 1,Site Preparation,2024-08-21,2024-09-10,107000,Completed
+CW0052,PR007,Contractor 2,Foundation,2024-09-17,2024-10-07,88000,Completed
+CW0053,PR007,Contractor 3,Brick Work,2024-10-14,2024-11-03,10000,Completed
+CW0054,PR007,Contractor 4,Electrical,2024-11-10,2024-11-30,58000,Completed
+CW0055,PR007,Contractor 3,Extra Labour,2024-12-07,2024-12-27,69000,Completed
+CW0056,PR007,Contractor 3,Extra Labour,2025-01-03,2025-01-23,146000,In Progress
+CW0057,PR007,Contractor 5,Plumbing,2025-01-30,2025-02-19,47000,In Progress
+CW0058,PR007,Contractor 6,Painting,2025-02-26,2025-03-18,8000,In Progress
+CW0059,PR008,Contractor 1,Site Preparation,2024-11-30,2024-12-20,8000,Completed
+CW0060,PR008,Contractor 3,Extra Labour,2025-01-05,2025-01-25,46000,In Progress
+CW0061,PR008,Contractor 3,Extra Labour,2025-02-10,2025-03-02,62000,In Progress
+CW0062,PR008,Contractor 2,Foundation,2025-03-18,2025-04-07,51000,In Progress
+CW0063,PR008,Contractor 3,Extra Labour,2025-04-23,2025-05-13,152000,In Progress
+CW0064,PR008,Contractor 3,Extra Labour,2025-05-29,2025-06-18,46000,In Progress
+CW0065,PR008,Contractor 3,Brick Work,2025-07-04,2025-07-24,36000,In Progress
+CW0066,PR008,Contractor 4,Electrical,2025-08-09,2025-08-29,327000,In Progress
+CW0067,PR008,Contractor 5,Plumbing,2025-09-14,2025-10-04,136000,In Progress
+CW0068,PR008,Contractor 6,Painting,2025-10-20,2025-11-09,52000,In Progress
+CW0069,PR009,Contractor 1,Site Preparation,2024-12-13,2025-01-02,23000,Completed
+CW0070,PR009,Contractor 3,Extra Labour,2024-12-30,2025-01-19,33000,Completed
+CW0071,PR009,Contractor 3,Extra Labour,2025-01-16,2025-02-05,56000,In Progress
+CW0072,PR009,Contractor 2,Foundation,2025-02-02,2025-02-22,25000,In Progress
+CW0073,PR009,Contractor 3,Brick Work,2025-02-19,2025-03-11,53000,In Progress
+CW0074,PR009,Contractor 4,Electrical,2025-03-08,2025-03-28,30000,In Progress
+CW0075,PR009,Contractor 5,Plumbing,2025-03-25,2025-04-14,9000,In Progress
+CW0076,PR009,Contractor 6,Painting,2025-04-11,2025-05-01,351000,In Progress
+CW0077,PR010,Contractor 1,Site Preparation,2025-01-05,2025-01-25,39000,In Progress
+CW0078,PR010,Contractor 2,Foundation,2025-01-26,2025-02-15,3000,In Progress
+CW0079,PR010,Contractor 3,Extra Labour,2025-02-16,2025-03-08,29000,In Progress
+CW0080,PR010,Contractor 3,Extra Labour,2025-03-09,2025-03-29,21000,In Progress
+CW0081,PR010,Contractor 3,Brick Work,2025-03-30,2025-04-19,2000,In Progress
+CW0082,PR010,Contractor 4,Electrical,2025-04-20,2025-05-10,101000,In Progress
+CW0083,PR010,Contractor 5,Plumbing,2025-05-11,2025-05-31,94000,In Progress
+CW0084,PR010,Contractor 6,Painting,2025-06-01,2025-06-21,129000,In Progress
+CW0085,PR011,Contractor 1,Site Preparation,2025-02-12,2025-03-04,8000,In Progress
+CW0086,PR011,Contractor 3,Extra Labour,2025-03-08,2025-03-28,51000,In Progress
+CW0087,PR011,Contractor 3,Extra Labour,2025-04-01,2025-04-21,93000,In Progress
+CW0088,PR011,Contractor 2,Foundation,2025-04-25,2025-05-15,37000,In Progress
+CW0089,PR011,Contractor 3,Extra Labour,2025-05-19,2025-06-08,8000,In Progress
+CW0090,PR011,Contractor 3,Brick Work,2025-06-12,2025-07-02,26000,In Progress
+CW0091,PR011,Contractor 4,Electrical,2025-07-06,2025-07-26,64000,In Progress
+CW0092,PR011,Contractor 3,Extra Labour,2025-07-30,2025-08-19,222000,In Progress
+CW0093,PR011,Contractor 5,Plumbing,2025-08-23,2025-09-12,39000,In Progress
+CW0094,PR011,Contractor 6,Painting,2025-09-16,2025-10-06,101000,In Progress
+CW0095,PR012,Contractor 1,Site Preparation,2025-03-21,2025-04-10,138000,In Progress
+CW0096,PR012,Contractor 2,Foundation,2025-04-27,2025-05-17,12000,In Progress
+CW0097,PR012,Contractor 3,Extra Labour,2025-06-03,2025-06-23,33000,In Progress
+CW0098,PR012,Contractor 3,Extra Labour,2025-07-10,2025-07-30,151000,In Progress
+CW0099,PR012,Contractor 3,Brick Work,2025-08-16,2025-09-05,76000,In Progress
+CW0100,PR012,Contractor 4,Electrical,2025-09-22,2025-10-12,107000,In Progress
+CW0101,PR012,Contractor 5,Plumbing,2025-10-29,2025-11-18,68000,In Progress
+CW0102,PR012,Contractor 6,Painting,2025-12-05,2025-12-25,49000,In Progress
+CW0103,PR013,Contractor 1,Site Preparation,2025-03-27,2025-04-16,12000,In Progress
+CW0104,PR013,Contractor 2,Foundation,2025-04-19,2025-05-09,14000,In Progress
+CW0105,PR013,Contractor 3,Extra Labour,2025-05-12,2025-06-01,53000,In Progress
+CW0106,PR013,Contractor 3,Brick Work,2025-06-04,2025-06-24,97000,In Progress
+CW0107,PR013,Contractor 3,Extra Labour,2025-06-27,2025-07-17,24000,In Progress
+CW0108,PR013,Contractor 4,Electrical,2025-07-20,2025-08-09,40000,In Progress
+CW0109,PR013,Contractor 5,Plumbing,2025-08-12,2025-09-01,6000,In Progress
+CW0110,PR013,Contractor 6,Painting,2025-09-04,2025-09-24,64000,In Progress
+CW0111,PR014,Contractor 1,Site Preparation,2025-04-02,2025-04-22,112000,In Progress
+CW0112,PR014,Contractor 3,Extra Labour,2025-04-19,2025-05-09,11000,In Progress
+CW0113,PR014,Contractor 2,Foundation,2025-05-06,2025-05-26,19000,In Progress
+CW0114,PR014,Contractor 3,Extra Labour,2025-05-23,2025-06-12,29000,In Progress
+CW0115,PR014,Contractor 3,Brick Work,2025-06-09,2025-06-29,17000,In Progress
+CW0116,PR014,Contractor 4,Electrical,2025-06-26,2025-07-16,32000,In Progress
+CW0117,PR014,Contractor 5,Plumbing,2025-07-13,2025-08-02,6000,In Progress
+CW0118,PR014,Contractor 6,Painting,2025-07-30,2025-08-19,26000,In Progress
+CW0119,PR015,Contractor 1,Site Preparation,2025-04-21,2025-05-11,41000,In Progress
+CW0120,PR015,Contractor 3,Extra Labour,2025-05-14,2025-06-03,108000,In Progress
+CW0121,PR015,Contractor 2,Foundation,2025-06-06,2025-06-26,18000,In Progress
+CW0122,PR015,Contractor 3,Extra Labour,2025-06-29,2025-07-19,33000,In Progress
+CW0123,PR015,Contractor 3,Brick Work,2025-07-22,2025-08-11,21000,In Progress
+CW0124,PR015,Contractor 4,Electrical,2025-08-14,2025-09-03,87000,In Progress
+CW0125,PR015,Contractor 5,Plumbing,2025-09-06,2025-09-26,67000,In Progress
+CW0126,PR015,Contractor 6,Painting,2025-09-29,2025-10-19,53000,In Progress
+CW0127,PR016,Contractor 1,Site Preparation,2025-05-15,2025-06-04,68000,In Progress
+CW0128,PR016,Contractor 2,Foundation,2025-06-20,2025-07-10,33000,In Progress
+CW0129,PR016,Contractor 3,Extra Labour,2025-07-26,2025-08-15,12000,In Progress
+CW0130,PR016,Contractor 3,Extra Labour,2025-08-31,2025-09-20,84000,In Progress
+CW0131,PR016,Contractor 3,Brick Work,2025-10-06,2025-10-26,12000,In Progress
+CW0132,PR016,Contractor 4,Electrical,2025-11-11,2025-12-01,163000,In Progress
+CW0133,PR016,Contractor 5,Plumbing,2025-12-17,2026-01-06,15000,In Progress
+CW0134,PR016,Contractor 6,Painting,2026-01-22,2026-02-11,52000,Planned
+CW0135,PR017,Contractor 1,Site Preparation,2025-06-27,2025-07-17,47000,In Progress
+CW0136,PR017,Contractor 3,Extra Labour,2025-07-20,2025-08-09,4000,In Progress
+CW0137,PR017,Contractor 3,Extra Labour,2025-08-12,2025-09-01,1000,In Progress
+CW0138,PR017,Contractor 2,Foundation,2025-09-04,2025-09-24,12000,In Progress
+CW0139,PR017,Contractor 3,Brick Work,2025-09-27,2025-10-17,40000,In Progress
+CW0140,PR017,Contractor 4,Electrical,2025-10-20,2025-11-09,17000,In Progress
+CW0141,PR017,Contractor 5,Plumbing,2025-11-12,2025-12-02,8000,In Progress
+CW0142,PR017,Contractor 6,Painting,2025-12-05,2025-12-25,1000,In Progress
+CW0143,PR018,Contractor 1,Site Preparation,2025-07-14,2025-08-03,55000,In Progress
+CW0144,PR018,Contractor 3,Extra Labour,2025-08-04,2025-08-24,25000,In Progress
+CW0145,PR018,Contractor 3,Extra Labour,2025-08-25,2025-09-14,100000,In Progress
+CW0146,PR018,Contractor 3,Extra Labour,2025-09-15,2025-10-05,26000,In Progress
+CW0147,PR018,Contractor 2,Foundation,2025-10-06,2025-10-26,133000,In Progress
+CW0148,PR018,Contractor 3,Extra Labour,2025-10-27,2025-11-16,64000,In Progress
+CW0149,PR018,Contractor 3,Brick Work,2025-11-17,2025-12-07,71000,In Progress
+CW0150,PR018,Contractor 4,Electrical,2025-12-08,2025-12-28,52000,In Progress
+CW0151,PR018,Contractor 5,Plumbing,2025-12-29,2026-01-18,19000,In Progress
+CW0152,PR018,Contractor 6,Painting,2026-01-19,2026-02-08,91000,Planned
+CW0153,PR019,Contractor 1,Site Preparation,2025-08-03,2025-08-23,52000,In Progress
+CW0154,PR019,Contractor 2,Foundation,2025-09-10,2025-09-30,96000,In Progress
+CW0155,PR019,Contractor 3,Brick Work,2025-10-18,2025-11-07,57000,In Progress
+CW0156,PR019,Contractor 3,Extra Labour,2025-11-25,2025-12-15,46000,In Progress
+CW0157,PR019,Contractor 3,Extra Labour,2026-01-02,2026-01-22,91000,Planned
+CW0158,PR019,Contractor 4,Electrical,2026-02-09,2026-03-01,21000,Planned
+CW0159,PR020,Contractor 1,Site Preparation,2025-08-23,2025-09-12,70000,In Progress
+CW0160,PR020,Contractor 2,Foundation,2025-09-14,2025-10-04,32000,In Progress
+CW0161,PR020,Contractor 3,Extra Labour,2025-10-06,2025-10-26,23000,In Progress
+CW0162,PR020,Contractor 3,Extra Labour,2025-10-28,2025-11-17,44000,In Progress
+CW0163,PR020,Contractor 3,Brick Work,2025-11-19,2025-12-09,2000,In Progress
+CW0164,PR020,Contractor 4,Electrical,2025-12-11,2025-12-31,5000,In Progress
+CW0165,PR020,Contractor 5,Plumbing,2026-01-02,2026-01-22,58000,Planned
+CW0166,PR020,Contractor 6,Painting,2026-01-24,2026-02-13,1000,Planned
+CW0167,PR021,Contractor 1,Site Preparation,2025-09-15,2025-10-05,104000,In Progress
+CW0168,PR021,Contractor 3,Extra Labour,2025-10-25,2025-11-14,179000,In Progress
+CW0169,PR021,Contractor 3,Extra Labour,2025-12-04,2025-12-24,14000,In Progress
+CW0170,PR021,Contractor 2,Foundation,2026-01-13,2026-02-02,206000,Planned
+CW0171,PR021,Contractor 3,Extra Labour,2026-02-22,2026-03-14,24000,Planned
+CW0172,PR021,Contractor 3,Brick Work,2026-04-03,2026-04-23,3000,Planned
+CW0173,PR021,Contractor 4,Electrical,2026-05-13,2026-06-02,64000,Planned
+CW0174,PR021,Contractor 5,Plumbing,2026-06-22,2026-07-12,181000,Planned
+CW0175,PR021,Contractor 6,Painting,2026-08-01,2026-08-21,36000,Planned
+CW0176,PR022,Contractor 1,Site Preparation,2025-12-07,2025-12-27,24000,In Progress
+CW0177,PR022,Contractor 3,Extra Labour,2026-01-21,2026-02-10,7000,Planned
+CW0178,PR022,Contractor 2,Foundation,2026-03-07,2026-03-27,103000,Planned
+CW0179,PR022,Contractor 3,Brick Work,2026-04-21,2026-05-11,426000,Planned
+CW0180,PR022,Contractor 3,Extra Labour,2026-06-05,2026-06-25,6000,Planned
+CW0181,PR023,Contractor 1,Site Preparation,2025-12-28,2026-01-17,40000,In Progress
+CW0182,PR023,Contractor 2,Foundation,2026-01-15,2026-02-04,17000,Planned
+CW0183,PR023,Contractor 3,Extra Labour,2026-02-02,2026-02-22,27000,Planned
+CW0184,PR023,Contractor 3,Extra Labour,2026-02-20,2026-03-12,19000,Planned
+CW0185,PR023,Contractor 3,Brick Work,2026-03-10,2026-03-30,11000,Planned
+CW0186,PR023,Contractor 4,Electrical,2026-03-28,2026-04-17,83000,Planned
+CW0187,PR023,Contractor 5,Plumbing,2026-04-15,2026-05-05,21000,Planned
+CW0188,PR023,Contractor 6,Painting,2026-05-03,2026-05-23,130000,Planned
+CW0189,PR024,Contractor 1,Site Preparation,2026-01-15,2026-02-04,8000,Planned
+CW0190,PR024,Contractor 3,Extra Labour,2026-01-31,2026-02-20,41000,Planned
+CW0191,PR024,Contractor 3,Extra Labour,2026-02-16,2026-03-08,5000,Planned
+CW0192,PR024,Contractor 2,Foundation,2026-03-04,2026-03-24,5000,Planned
+CW0193,PR024,Contractor 3,Brick Work,2026-03-20,2026-04-09,1000,Planned
+CW0194,PR024,Contractor 4,Electrical,2026-04-05,2026-04-25,50000,Planned
+CW0195,PR024,Contractor 5,Plumbing,2026-04-21,2026-05-11,46000,Planned
+CW0196,PR024,Contractor 6,Painting,2026-05-07,2026-05-27,4000,Planned
+CW0197,PR025,Contractor 1,Site Preparation,2026-01-20,2026-02-09,22000,Planned
+CW0198,PR025,Contractor 2,Foundation,2026-02-11,2026-03-03,27000,Planned
+CW0199,PR025,Contractor 3,Brick Work,2026-03-05,2026-03-25,70000,Planned
+CW0200,PR025,Contractor 4,Electrical,2026-03-27,2026-04-16,106000,Planned
+CW0201,PR025,Contractor 3,Extra Labour,2026-04-18,2026-05-08,41000,Planned
+CW0202,PR025,Contractor 3,Extra Labour,2026-05-10,2026-05-30,112000,Planned
+CW0203,PR025,Contractor 5,Plumbing,2026-06-01,2026-06-21,55000,Planned
+CW0204,PR025,Contractor 6,Painting,2026-06-23,2026-07-13,7000,Planned
+CW0205,PR026,Contractor 1,Site Preparation,2026-01-23,2026-02-12,80000,Planned
+CW0206,PR026,Contractor 3,Extra Labour,2026-02-10,2026-03-02,8000,Planned
+CW0207,PR026,Contractor 3,Extra Labour,2026-02-28,2026-03-20,8000,Planned
+CW0208,PR026,Contractor 2,Foundation,2026-03-18,2026-04-07,22000,Planned
+CW0209,PR026,Contractor 3,Brick Work,2026-04-05,2026-04-25,15000,Planned
+CW0210,PR026,Contractor 4,Electrical,2026-04-23,2026-05-13,8000,Planned
+CW0211,PR027,Contractor 1,Site Preparation,2026-02-05,2026-02-25,93000,Planned
+CW0212,PR027,Contractor 2,Foundation,2026-04-06,2026-04-26,5000,Planned
+CW0213,PR027,Contractor 3,Brick Work,2026-06-05,2026-06-25,35000,Planned
+CW0214,PR027,Contractor 3,Extra Labour,2026-08-04,2026-08-24,299000,Planned
+CW0215,PR027,Contractor 3,Extra Labour,2026-10-03,2026-10-23,55000,Planned
