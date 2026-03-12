@@ -80,7 +80,7 @@ The interactive Power BI report (`Construction_Analytics.pbix`) is divided into 
 
 ## 📸 Dashboard Previews
 
-*(Replace the image paths below with the actual names of your screenshot files once uploaded to the repository, e.g., `page1.png`)*
+
 
 ### Page 1: Executive Overview
 ![Executive Overview](page_1.png)
